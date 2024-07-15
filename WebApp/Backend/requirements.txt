@@ -1,0 +1,6 @@
+Flask==2.1.1
+Flask-CORS==3.0.10
+tensorflow==2.15.0
+scikit-learn==1.2.2
+numpy==1.26.4
+#Pillow==9.1.1
